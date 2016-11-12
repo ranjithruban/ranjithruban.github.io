@@ -1,2 +1,2 @@
-ranjithruban.githug.io
+ranjithruban.github.io
 ======================
